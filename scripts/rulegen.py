@@ -37,7 +37,7 @@ def get_domains():
 
             if not isinstance(domain, str):
                 raise ValueError(f"Expected string for 'domain', got {type(domain)}")
-            if not isinstance(source, str):  # Если source не строка, это ошибка
+            if not isinstance(source, str):
                 raise ValueError(f"Expected string for 'source', got {type(source)}")
 
             domains.append(Domain(domain, source))
@@ -61,7 +61,7 @@ def append_rule(domain):
         template_content = read_file(TEMPLATE_PATH)
         template = string.Template(template_content)
 
-        result_text = template.substitute(domain=domain.domain)
+        result_text = template.substitute(domain=domain.domain, source=domain.source)
 
         with open(OUTPUT_PATH, "a", encoding="utf-8") as output_file:
             output_file.write(result_text)
