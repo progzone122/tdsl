@@ -48,7 +48,7 @@ duckduckgo.*##a[href*="latestmobilefaq.com"]:upward(article)
 google.*##.g:has(a[href*="unofficialtwrp.com"]), .tF2Cxc:has(a[href*="unofficialtwrp.com"]), .MjjYud:has(a[href*="unofficialtwrp.com"])
 duckduckgo.*##a[href*="unofficialtwrp.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/10
 ||proshivkis.ru^
 ##a[href*="proshivkis.ru"], div:has(a[href*="proshivkis.ru"])
 google.*##.g:has(a[href*="proshivkis.ru"]), .tF2Cxc:has(a[href*="proshivkis.ru"]), .MjjYud:has(a[href*="proshivkis.ru"])
