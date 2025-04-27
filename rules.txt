@@ -24,7 +24,7 @@ duckduckgo.*##a[href*="rootingmaster.com"]:upward(article)
 google.*##.g:has(a[href*="onfix.cn"]), .tF2Cxc:has(a[href*="onfix.cn"]), .MjjYud:has(a[href*="onfix.cn"])
 duckduckgo.*##a[href*="onfix.cn"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/6
 ||www.gsmprime.online^
 ##a[href*="www.gsmprime.online"], div:has(a[href*="www.gsmprime.online"])
 google.*##.g:has(a[href*="www.gsmprime.online"]), .tF2Cxc:has(a[href*="www.gsmprime.online"]), .MjjYud:has(a[href*="www.gsmprime.online"])
