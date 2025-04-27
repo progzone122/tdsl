@@ -18,7 +18,7 @@ duckduckgo.*##a[href*="www.androidinfotech.com"]:upward(article)
 google.*##.g:has(a[href*="rootingmaster.com"]), .tF2Cxc:has(a[href*="rootingmaster.com"]), .MjjYud:has(a[href*="rootingmaster.com"])
 duckduckgo.*##a[href*="rootingmaster.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/5
 ||onfix.cn^
 ##a[href*="onfix.cn"], div:has(a[href*="onfix.cn"])
 google.*##.g:has(a[href*="onfix.cn"]), .tF2Cxc:has(a[href*="onfix.cn"]), .MjjYud:has(a[href*="onfix.cn"])
