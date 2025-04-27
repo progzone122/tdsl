@@ -34,5 +34,9 @@
     {
         "domain": "proshivkis.ru",
         "source": "https://github.com/progzone122/tdsl/pull/10"
+    },
+    {
+        "domain": "www.getdroidtips.com",
+        "source": "https://github.com/progzone122/tdsl/pull/11"
     }
 ]
