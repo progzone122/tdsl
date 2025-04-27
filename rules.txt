@@ -42,7 +42,7 @@ duckduckgo.*##a[href*="mobilend.com.ua"]:upward(article)
 google.*##.g:has(a[href*="latestmobilefaq.com"]), .tF2Cxc:has(a[href*="latestmobilefaq.com"]), .MjjYud:has(a[href*="latestmobilefaq.com"])
 duckduckgo.*##a[href*="latestmobilefaq.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/9
 ||unofficialtwrp.com^
 ##a[href*="unofficialtwrp.com"], div:has(a[href*="unofficialtwrp.com"])
 google.*##.g:has(a[href*="unofficialtwrp.com"]), .tF2Cxc:has(a[href*="unofficialtwrp.com"]), .MjjYud:has(a[href*="unofficialtwrp.com"])
