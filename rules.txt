@@ -1,0 +1,7 @@
+
+
+! https://github.com/progzone122/tech-dumbfucks-sites-list/pull/2
+||whatmydevice.com^
+##a[href*="whatmydevice.com"], div:has(a[href*="whatmydevice.com"])
+google.*##.g:has(a[href*="whatmydevice.com"]), .tF2Cxc:has(a[href*="whatmydevice.com"]), .MjjYud:has(a[href*="whatmydevice.com"])
+duckduckgo.*##a[href*="whatmydevice.com"]:upward(article)
