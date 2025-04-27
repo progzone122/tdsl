@@ -30,7 +30,7 @@ duckduckgo.*##a[href*="onfix.cn"]:upward(article)
 google.*##.g:has(a[href*="www.gsmprime.online"]), .tF2Cxc:has(a[href*="www.gsmprime.online"]), .MjjYud:has(a[href*="www.gsmprime.online"])
 duckduckgo.*##a[href*="www.gsmprime.online"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/7
 ||mobilend.com.ua^
 ##a[href*="mobilend.com.ua"], div:has(a[href*="mobilend.com.ua"])
 google.*##.g:has(a[href*="mobilend.com.ua"]), .tF2Cxc:has(a[href*="mobilend.com.ua"]), .MjjYud:has(a[href*="mobilend.com.ua"])
