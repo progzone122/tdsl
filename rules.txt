@@ -5,3 +5,9 @@
 ##a[href*="whatmydevice.com"], div:has(a[href*="whatmydevice.com"])
 google.*##.g:has(a[href*="whatmydevice.com"]), .tF2Cxc:has(a[href*="whatmydevice.com"]), .MjjYud:has(a[href*="whatmydevice.com"])
 duckduckgo.*##a[href*="whatmydevice.com"]:upward(article)
+
+! [PULL REQUEST/ISSUE LINK]
+||www.androidinfotech.com^
+##a[href*="www.androidinfotech.com"], div:has(a[href*="www.androidinfotech.com"])
+google.*##.g:has(a[href*="www.androidinfotech.com"]), .tF2Cxc:has(a[href*="www.androidinfotech.com"]), .MjjYud:has(a[href*="www.androidinfotech.com"])
+duckduckgo.*##a[href*="www.androidinfotech.com"]:upward(article)
