@@ -66,7 +66,7 @@ duckduckgo.*##a[href*="www.getdroidtips.com"]:upward(article)
 google.*##.g:has(a[href*="rootingos.com"]), .tF2Cxc:has(a[href*="rootingos.com"]), .MjjYud:has(a[href*="rootingos.com"])
 duckduckgo.*##a[href*="rootingos.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/13
 ||rootall.ru^
 ##a[href*="rootall.ru"], div:has(a[href*="rootall.ru"])
 google.*##.g:has(a[href*="rootall.ru"]), .tF2Cxc:has(a[href*="rootall.ru"]), .MjjYud:has(a[href*="rootall.ru"])
