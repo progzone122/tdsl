@@ -26,5 +26,9 @@
     {
         "domain": "latestmobilefaq.com",
         "source": "https://github.com/progzone122/tdsl/pull/8"
+    },
+    {
+        "domain": "unofficialtwrp.com",
+        "source": "https://github.com/progzone122/tdsl/pull/9"
     }
 ]
