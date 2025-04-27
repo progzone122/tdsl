@@ -10,6 +10,14 @@ This repository is created for those who are tired of websites that deceive user
 
 This list contains domains of **bullshitters** and **scammers** who either want to use your data, money, or simply waste your time with fake instructions, offers, and false promises.
 
+## Get started
+Add this list to your ad blocker with one click - [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/progzone122/tdsl/refs/heads/main/rules.txt&title=TDSL%20TDSL)
+
+Or add it manually using the raw link:
+```
+https://raw.githubusercontent.com/progzone122/tdsl/refs/heads/main/rules.txt
+```
+
 ## What's in this repository?
 - A list of **technical websites** that lie.
 - Websites that promise **nonexistent capabilities**, like unlocking bootloaders, rooting, fake firmware, etc.
