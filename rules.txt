@@ -11,3 +11,9 @@ duckduckgo.*##a[href*="whatmydevice.com"]:upward(article)
 ##a[href*="www.androidinfotech.com"], div:has(a[href*="www.androidinfotech.com"])
 google.*##.g:has(a[href*="www.androidinfotech.com"]), .tF2Cxc:has(a[href*="www.androidinfotech.com"]), .MjjYud:has(a[href*="www.androidinfotech.com"])
 duckduckgo.*##a[href*="www.androidinfotech.com"]:upward(article)
+
+! [SOURCE]
+||rootingmaster.com^
+##a[href*="rootingmaster.com"], div:has(a[href*="rootingmaster.com"])
+google.*##.g:has(a[href*="rootingmaster.com"]), .tF2Cxc:has(a[href*="rootingmaster.com"]), .MjjYud:has(a[href*="rootingmaster.com"])
+duckduckgo.*##a[href*="rootingmaster.com"]:upward(article)
