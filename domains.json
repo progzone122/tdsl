@@ -38,5 +38,9 @@
     {
         "domain": "www.getdroidtips.com",
         "source": "https://github.com/progzone122/tdsl/pull/11"
+    },
+    {
+        "domain": "rootingos.com",
+        "source": "https://github.com/progzone122/tdsl/pull/12"
     }
 ]
