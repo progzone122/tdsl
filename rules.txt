@@ -29,3 +29,9 @@ duckduckgo.*##a[href*="onfix.cn"]:upward(article)
 ##a[href*="www.gsmprime.online"], div:has(a[href*="www.gsmprime.online"])
 google.*##.g:has(a[href*="www.gsmprime.online"]), .tF2Cxc:has(a[href*="www.gsmprime.online"]), .MjjYud:has(a[href*="www.gsmprime.online"])
 duckduckgo.*##a[href*="www.gsmprime.online"]:upward(article)
+
+! https://github.com/progzone122/tdsl/pull/7
+||mobilend.com.ua^
+##a[href*="mobilend.com.ua"], div:has(a[href*="mobilend.com.ua"])
+google.*##.g:has(a[href*="mobilend.com.ua"]), .tF2Cxc:has(a[href*="mobilend.com.ua"]), .MjjYud:has(a[href*="mobilend.com.ua"])
+duckduckgo.*##a[href*="mobilend.com.ua"]:upward(article)
