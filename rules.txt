@@ -1,0 +1,7 @@
+
+
+! [PULL REQUEST/ISSUE LINK]
+||unlocklocks.com^
+##a[href*="unlocklocks.com"], div:has(a[href*="unlocklocks.com"])
+google.*##.g:has(a[href*="unlocklocks.com"]), .tF2Cxc:has(a[href*="unlocklocks.com"]), .MjjYud:has(a[href*="unlocklocks.com"])
+duckduckgo.*##a[href*="unlocklocks.com"]:upward(article)
