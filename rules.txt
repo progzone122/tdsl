@@ -35,3 +35,9 @@ duckduckgo.*##a[href*="www.gsmprime.online"]:upward(article)
 ##a[href*="mobilend.com.ua"], div:has(a[href*="mobilend.com.ua"])
 google.*##.g:has(a[href*="mobilend.com.ua"]), .tF2Cxc:has(a[href*="mobilend.com.ua"]), .MjjYud:has(a[href*="mobilend.com.ua"])
 duckduckgo.*##a[href*="mobilend.com.ua"]:upward(article)
+
+! [SOURCE]
+||latestmobilefaq.com^
+##a[href*="latestmobilefaq.com"], div:has(a[href*="latestmobilefaq.com"])
+google.*##.g:has(a[href*="latestmobilefaq.com"]), .tF2Cxc:has(a[href*="latestmobilefaq.com"]), .MjjYud:has(a[href*="latestmobilefaq.com"])
+duckduckgo.*##a[href*="latestmobilefaq.com"]:upward(article)
