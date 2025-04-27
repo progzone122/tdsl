@@ -1,12 +1,12 @@
 
 
-! https://github.com/progzone122/tech-dumbfucks-sites-list/pull/2
+! https://github.com/progzone122/tdsl/pull/2
 ||whatmydevice.com^
 ##a[href*="whatmydevice.com"], div:has(a[href*="whatmydevice.com"])
 google.*##.g:has(a[href*="whatmydevice.com"]), .tF2Cxc:has(a[href*="whatmydevice.com"]), .MjjYud:has(a[href*="whatmydevice.com"])
 duckduckgo.*##a[href*="whatmydevice.com"]:upward(article)
 
-! https://github.com/progzone122/tech-dumbfucks-sites-list/pull/3
+! https://github.com/progzone122/tdsl/pull/3
 ||www.androidinfotech.com^
 ##a[href*="www.androidinfotech.com"], div:has(a[href*="www.androidinfotech.com"])
 google.*##.g:has(a[href*="www.androidinfotech.com"]), .tF2Cxc:has(a[href*="www.androidinfotech.com"]), .MjjYud:has(a[href*="www.androidinfotech.com"])
