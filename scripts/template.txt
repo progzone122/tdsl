@@ -1,0 +1,7 @@
+
+
+! [PULL REQUEST/ISSUE LINK]
+||${domain}^
+##a[href*="${domain}"], div:has(a[href*="${domain}"])
+google.*##.g:has(a[href*="${domain}"]), .tF2Cxc:has(a[href*="${domain}"]), .MjjYud:has(a[href*="${domain}"])
+duckduckgo.*##a[href*="${domain}"]:upward(article)
