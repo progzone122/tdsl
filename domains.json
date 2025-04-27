@@ -42,5 +42,9 @@
     {
         "domain": "rootingos.com",
         "source": "https://github.com/progzone122/tdsl/pull/12"
+    },
+    {
+        "domain": "rootall.ru",
+        "source": "https://github.com/progzone122/tdsl/pull/13"
     }
 ]
