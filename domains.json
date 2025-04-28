@@ -54,5 +54,9 @@
     {
         "domain": "albastuz3d.net",
         "source": "https://github.com/progzone122/tdsl/pull/15"
+    },
+    {
+        "domain": "androidcatch.com",
+        "source": "https://github.com/progzone122/tdsl/pull/16"
     }
 ]
