@@ -50,5 +50,9 @@
     {
         "domain": "www.kingoapp.com",
         "source": "https://github.com/progzone122/tdsl/pull/14"
+    },
+    {
+        "domain": "albastuz3d.net",
+        "source": "https://github.com/progzone122/tdsl/pull/15"
     }
 ]
