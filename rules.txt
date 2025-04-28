@@ -72,7 +72,7 @@ duckduckgo.*##a[href*="rootingos.com"]:upward(article)
 google.*##.g:has(a[href*="rootall.ru"]), .tF2Cxc:has(a[href*="rootall.ru"]), .MjjYud:has(a[href*="rootall.ru"])
 duckduckgo.*##a[href*="rootall.ru"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/14
 ||www.kingoapp.com^
 ##a[href*="www.kingoapp.com"], div:has(a[href*="www.kingoapp.com"])
 google.*##.g:has(a[href*="www.kingoapp.com"]), .tF2Cxc:has(a[href*="www.kingoapp.com"]), .MjjYud:has(a[href*="www.kingoapp.com"])
