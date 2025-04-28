@@ -71,3 +71,9 @@ duckduckgo.*##a[href*="rootingos.com"]:upward(article)
 ##a[href*="rootall.ru"], div:has(a[href*="rootall.ru"])
 google.*##.g:has(a[href*="rootall.ru"]), .tF2Cxc:has(a[href*="rootall.ru"]), .MjjYud:has(a[href*="rootall.ru"])
 duckduckgo.*##a[href*="rootall.ru"]:upward(article)
+
+! [SOURCE]
+||www.kingoapp.com^
+##a[href*="www.kingoapp.com"], div:has(a[href*="www.kingoapp.com"])
+google.*##.g:has(a[href*="www.kingoapp.com"]), .tF2Cxc:has(a[href*="www.kingoapp.com"]), .MjjYud:has(a[href*="www.kingoapp.com"])
+duckduckgo.*##a[href*="www.kingoapp.com"]:upward(article)
