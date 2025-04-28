@@ -83,3 +83,9 @@ duckduckgo.*##a[href*="www.kingoapp.com"]:upward(article)
 ##a[href*="albastuz3d.net"], div:has(a[href*="albastuz3d.net"])
 google.*##.g:has(a[href*="albastuz3d.net"]), .tF2Cxc:has(a[href*="albastuz3d.net"]), .MjjYud:has(a[href*="albastuz3d.net"])
 duckduckgo.*##a[href*="albastuz3d.net"]:upward(article)
+
+! [SOURCE]
+||androidcatch.com^
+##a[href*="androidcatch.com"], div:has(a[href*="androidcatch.com"])
+google.*##.g:has(a[href*="androidcatch.com"]), .tF2Cxc:has(a[href*="androidcatch.com"]), .MjjYud:has(a[href*="androidcatch.com"])
+duckduckgo.*##a[href*="androidcatch.com"]:upward(article)
