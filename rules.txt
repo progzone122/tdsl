@@ -2,90 +2,90 @@
 
 ! https://github.com/progzone122/tdsl/pull/2
 ||whatmydevice.com^
-##a[href*="whatmydevice.com"], div:has(a[href*="whatmydevice.com"])
+div:has(a[href*="whatmydevice.com"])
 google.*##.g:has(a[href*="whatmydevice.com"]), .tF2Cxc:has(a[href*="whatmydevice.com"]), .MjjYud:has(a[href*="whatmydevice.com"])
 duckduckgo.*##a[href*="whatmydevice.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/3
 ||www.androidinfotech.com^
-##a[href*="www.androidinfotech.com"], div:has(a[href*="www.androidinfotech.com"])
+div:has(a[href*="www.androidinfotech.com"])
 google.*##.g:has(a[href*="www.androidinfotech.com"]), .tF2Cxc:has(a[href*="www.androidinfotech.com"]), .MjjYud:has(a[href*="www.androidinfotech.com"])
 duckduckgo.*##a[href*="www.androidinfotech.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/4
 ||rootingmaster.com^
-##a[href*="rootingmaster.com"], div:has(a[href*="rootingmaster.com"])
+div:has(a[href*="rootingmaster.com"])
 google.*##.g:has(a[href*="rootingmaster.com"]), .tF2Cxc:has(a[href*="rootingmaster.com"]), .MjjYud:has(a[href*="rootingmaster.com"])
 duckduckgo.*##a[href*="rootingmaster.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/5
 ||onfix.cn^
-##a[href*="onfix.cn"], div:has(a[href*="onfix.cn"])
+div:has(a[href*="onfix.cn"])
 google.*##.g:has(a[href*="onfix.cn"]), .tF2Cxc:has(a[href*="onfix.cn"]), .MjjYud:has(a[href*="onfix.cn"])
 duckduckgo.*##a[href*="onfix.cn"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/6
 ||www.gsmprime.online^
-##a[href*="www.gsmprime.online"], div:has(a[href*="www.gsmprime.online"])
+div:has(a[href*="www.gsmprime.online"])
 google.*##.g:has(a[href*="www.gsmprime.online"]), .tF2Cxc:has(a[href*="www.gsmprime.online"]), .MjjYud:has(a[href*="www.gsmprime.online"])
 duckduckgo.*##a[href*="www.gsmprime.online"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/7
 ||mobilend.com.ua^
-##a[href*="mobilend.com.ua"], div:has(a[href*="mobilend.com.ua"])
+div:has(a[href*="mobilend.com.ua"])
 google.*##.g:has(a[href*="mobilend.com.ua"]), .tF2Cxc:has(a[href*="mobilend.com.ua"]), .MjjYud:has(a[href*="mobilend.com.ua"])
 duckduckgo.*##a[href*="mobilend.com.ua"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/8
 ||latestmobilefaq.com^
-##a[href*="latestmobilefaq.com"], div:has(a[href*="latestmobilefaq.com"])
+div:has(a[href*="latestmobilefaq.com"])
 google.*##.g:has(a[href*="latestmobilefaq.com"]), .tF2Cxc:has(a[href*="latestmobilefaq.com"]), .MjjYud:has(a[href*="latestmobilefaq.com"])
 duckduckgo.*##a[href*="latestmobilefaq.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/9
 ||unofficialtwrp.com^
-##a[href*="unofficialtwrp.com"], div:has(a[href*="unofficialtwrp.com"])
+div:has(a[href*="unofficialtwrp.com"])
 google.*##.g:has(a[href*="unofficialtwrp.com"]), .tF2Cxc:has(a[href*="unofficialtwrp.com"]), .MjjYud:has(a[href*="unofficialtwrp.com"])
 duckduckgo.*##a[href*="unofficialtwrp.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/10
 ||proshivkis.ru^
-##a[href*="proshivkis.ru"], div:has(a[href*="proshivkis.ru"])
+div:has(a[href*="proshivkis.ru"])
 google.*##.g:has(a[href*="proshivkis.ru"]), .tF2Cxc:has(a[href*="proshivkis.ru"]), .MjjYud:has(a[href*="proshivkis.ru"])
 duckduckgo.*##a[href*="proshivkis.ru"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/11
 ||www.getdroidtips.com^
-##a[href*="www.getdroidtips.com"], div:has(a[href*="www.getdroidtips.com"])
+div:has(a[href*="www.getdroidtips.com"])
 google.*##.g:has(a[href*="www.getdroidtips.com"]), .tF2Cxc:has(a[href*="www.getdroidtips.com"]), .MjjYud:has(a[href*="www.getdroidtips.com"])
 duckduckgo.*##a[href*="www.getdroidtips.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/12
 ||rootingos.com^
-##a[href*="rootingos.com"], div:has(a[href*="rootingos.com"])
+div:has(a[href*="rootingos.com"])
 google.*##.g:has(a[href*="rootingos.com"]), .tF2Cxc:has(a[href*="rootingos.com"]), .MjjYud:has(a[href*="rootingos.com"])
 duckduckgo.*##a[href*="rootingos.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/13
 ||rootall.ru^
-##a[href*="rootall.ru"], div:has(a[href*="rootall.ru"])
+div:has(a[href*="rootall.ru"])
 google.*##.g:has(a[href*="rootall.ru"]), .tF2Cxc:has(a[href*="rootall.ru"]), .MjjYud:has(a[href*="rootall.ru"])
 duckduckgo.*##a[href*="rootall.ru"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/14
 ||www.kingoapp.com^
-##a[href*="www.kingoapp.com"], div:has(a[href*="www.kingoapp.com"])
+div:has(a[href*="www.kingoapp.com"])
 google.*##.g:has(a[href*="www.kingoapp.com"]), .tF2Cxc:has(a[href*="www.kingoapp.com"]), .MjjYud:has(a[href*="www.kingoapp.com"])
 duckduckgo.*##a[href*="www.kingoapp.com"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/15
 ||albastuz3d.net^
-##a[href*="albastuz3d.net"], div:has(a[href*="albastuz3d.net"])
+div:has(a[href*="albastuz3d.net"])
 google.*##.g:has(a[href*="albastuz3d.net"]), .tF2Cxc:has(a[href*="albastuz3d.net"]), .MjjYud:has(a[href*="albastuz3d.net"])
 duckduckgo.*##a[href*="albastuz3d.net"]:upward(article)
 
 ! https://github.com/progzone122/tdsl/pull/16
 ||androidcatch.com^
-##a[href*="androidcatch.com"], div:has(a[href*="androidcatch.com"])
+div:has(a[href*="androidcatch.com"])
 google.*##.g:has(a[href*="androidcatch.com"]), .tF2Cxc:has(a[href*="androidcatch.com"]), .MjjYud:has(a[href*="androidcatch.com"])
 duckduckgo.*##a[href*="androidcatch.com"]:upward(article)
