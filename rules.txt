@@ -77,3 +77,9 @@ duckduckgo.*##a[href*="rootall.ru"]:upward(article)
 ##a[href*="www.kingoapp.com"], div:has(a[href*="www.kingoapp.com"])
 google.*##.g:has(a[href*="www.kingoapp.com"]), .tF2Cxc:has(a[href*="www.kingoapp.com"]), .MjjYud:has(a[href*="www.kingoapp.com"])
 duckduckgo.*##a[href*="www.kingoapp.com"]:upward(article)
+
+! [SOURCE]
+||albastuz3d.net^
+##a[href*="albastuz3d.net"], div:has(a[href*="albastuz3d.net"])
+google.*##.g:has(a[href*="albastuz3d.net"]), .tF2Cxc:has(a[href*="albastuz3d.net"]), .MjjYud:has(a[href*="albastuz3d.net"])
+duckduckgo.*##a[href*="albastuz3d.net"]:upward(article)
