@@ -78,7 +78,7 @@ duckduckgo.*##a[href*="rootall.ru"]:upward(article)
 google.*##.g:has(a[href*="www.kingoapp.com"]), .tF2Cxc:has(a[href*="www.kingoapp.com"]), .MjjYud:has(a[href*="www.kingoapp.com"])
 duckduckgo.*##a[href*="www.kingoapp.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/15
 ||albastuz3d.net^
 ##a[href*="albastuz3d.net"], div:has(a[href*="albastuz3d.net"])
 google.*##.g:has(a[href*="albastuz3d.net"]), .tF2Cxc:has(a[href*="albastuz3d.net"]), .MjjYud:has(a[href*="albastuz3d.net"])
