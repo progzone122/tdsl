@@ -90,7 +90,7 @@ div:has(a[href*="androidcatch.com"])
 google.*##.g:has(a[href*="androidcatch.com"]), .tF2Cxc:has(a[href*="androidcatch.com"]), .MjjYud:has(a[href*="androidcatch.com"])
 duckduckgo.*##a[href*="androidcatch.com"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/17
 ||proshivku.ru^
 div:has(a[href*="proshivku.ru"])
 google.*##.g:has(a[href*="proshivku.ru"]), .tF2Cxc:has(a[href*="proshivku.ru"]), .MjjYud:has(a[href*="proshivku.ru"])
