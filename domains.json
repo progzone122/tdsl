@@ -58,5 +58,13 @@
     {
         "domain": "androidcatch.com",
         "source": "https://github.com/progzone122/tdsl/pull/16"
+    },
+    {
+        "domain": "proshivku.ru",
+        "source": "https://github.com/progzone122/tdsl/pull/17"
+    },
+    {
+        "domain": "proshivkin.ru",
+        "source": "[SOURCE]"
     }
 ]
