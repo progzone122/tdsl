@@ -96,7 +96,7 @@ div:has(a[href*="proshivku.ru"])
 google.*##.g:has(a[href*="proshivku.ru"]), .tF2Cxc:has(a[href*="proshivku.ru"]), .MjjYud:has(a[href*="proshivku.ru"])
 duckduckgo.*##a[href*="proshivku.ru"]:upward(article)
 
-! [SOURCE]
+! https://github.com/progzone122/tdsl/pull/18
 ||proshivkin.ru^
 div:has(a[href*="proshivkin.ru"])
 google.*##.g:has(a[href*="proshivkin.ru"]), .tF2Cxc:has(a[href*="proshivkin.ru"]), .MjjYud:has(a[href*="proshivkin.ru"])
