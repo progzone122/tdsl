@@ -62,5 +62,9 @@
     {
         "domain": "proshivku.ru",
         "source": "https://github.com/progzone122/tdsl/pull/17"
+    },
+    {
+        "domain": "proshivkin.ru",
+        "source": "https://github.com/progzone122/tdsl/pull/18"
     }
 ]
