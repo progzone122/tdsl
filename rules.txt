@@ -107,3 +107,9 @@ duckduckgo.*##a[href*="proshivkin.ru"]:upward(article)
 div:has(a[href*="oneclickroot.com"])
 google.*##.g:has(a[href*="oneclickroot.com"]), .tF2Cxc:has(a[href*="oneclickroot.com"]), .MjjYud:has(a[href*="oneclickroot.com"])
 duckduckgo.*##a[href*="oneclickroot.com"]:upward(article)
+
+! [SOURCE]
+||www.serviceemmc.com^
+div:has(a[href*="www.serviceemmc.com"])
+google.*##.g:has(a[href*="www.serviceemmc.com"]), .tF2Cxc:has(a[href*="www.serviceemmc.com"]), .MjjYud:has(a[href*="www.serviceemmc.com"])
+duckduckgo.*##a[href*="www.serviceemmc.com"]:upward(article)
