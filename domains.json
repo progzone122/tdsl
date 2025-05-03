@@ -66,5 +66,9 @@
     {
         "domain": "proshivkin.ru",
         "source": "https://github.com/progzone122/tdsl/pull/18"
+    },
+    {
+        "domain": "oneclickroot.com",
+        "source": "https://github.com/progzone122/tdsl/pull/19"
     }
 ]

@@ -101,3 +101,9 @@ duckduckgo.*##a[href*="proshivku.ru"]:upward(article)
 div:has(a[href*="proshivkin.ru"])
 google.*##.g:has(a[href*="proshivkin.ru"]), .tF2Cxc:has(a[href*="proshivkin.ru"]), .MjjYud:has(a[href*="proshivkin.ru"])
 duckduckgo.*##a[href*="proshivkin.ru"]:upward(article)
+
+! https://github.com/progzone122/tdsl/pull/19
+||oneclickroot.com^
+div:has(a[href*="oneclickroot.com"])
+google.*##.g:has(a[href*="oneclickroot.com"]), .tF2Cxc:has(a[href*="oneclickroot.com"]), .MjjYud:has(a[href*="oneclickroot.com"])
+duckduckgo.*##a[href*="oneclickroot.com"]:upward(article)
