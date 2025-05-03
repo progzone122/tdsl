@@ -113,3 +113,9 @@ duckduckgo.*##a[href*="oneclickroot.com"]:upward(article)
 div:has(a[href*="www.serviceemmc.com"])
 google.*##.g:has(a[href*="www.serviceemmc.com"]), .tF2Cxc:has(a[href*="www.serviceemmc.com"]), .MjjYud:has(a[href*="www.serviceemmc.com"])
 duckduckgo.*##a[href*="www.serviceemmc.com"]:upward(article)
+
+! [SOURCE]
+||www.thenextdroid.com^
+div:has(a[href*="www.thenextdroid.com"])
+google.*##.g:has(a[href*="www.thenextdroid.com"]), .tF2Cxc:has(a[href*="www.thenextdroid.com"]), .MjjYud:has(a[href*="www.thenextdroid.com"])
+duckduckgo.*##a[href*="www.thenextdroid.com"]:upward(article)

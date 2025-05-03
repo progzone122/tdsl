@@ -74,5 +74,9 @@
     {
         "domain": "www.serviceemmc.com",
         "source": "https://github.com/progzone122/tdsl/pull/20"
+    },
+    {
+        "domain": "www.thenextdroid.com",
+        "source": "[SOURCE]"
     }
 ]
